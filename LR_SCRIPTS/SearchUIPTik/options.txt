@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IF:\GAS_Vybory\LR_SCRIPTS\SearchUIPTik
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ef:\gas_vybory\lr_scripts\searchuiptik\\logfile.log
+f:\gas_vybory\lr_scripts\searchuiptik\\combined_SearchUIPTik.c
+f:\gas_vybory\lr_scripts\searchuiptik\\pre_cci.c

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IF:\GAS_Vybory\LR_SCRIPTS\WorkWithSections
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ef:\gas_vybory\lr_scripts\workwithsections\\logfile.log
+f:\gas_vybory\lr_scripts\workwithsections\\combined_WorkWithSections.c
+f:\gas_vybory\lr_scripts\workwithsections\\pre_cci.c
